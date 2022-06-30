@@ -1,0 +1,209 @@
+[
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "Provincia de Buenos Aires",
+            "capital": "La Plata",
+            "habitantes": "15.594.428",
+            "cantDeptos": 135
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "C\u00f3rdoba",
+            "capital": "C\u00f3rdoba",
+            "habitantes": "3.304.825",
+            "cantDeptos": 26
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "Santa Fe",
+            "capital": "Santa Fe",
+            "habitantes": "3.300.736",
+            "cantDeptos": 19
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "Mendoza",
+            "capital": "Mendoza",
+            "habitantes": "1.741.610",
+            "cantDeptos": 18
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "Tucum\u00e1n",
+            "capital": "San Miguel de Tucum\u00e1n",
+            "habitantes": "1.592.878",
+            "cantDeptos": 17
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "Entre R\u00edos",
+            "capital": "Paran\u00e1",
+            "habitantes": "1.236.300",
+            "cantDeptos": 17
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "Salta",
+            "capital": "Salta",
+            "habitantes": "1.215.207",
+            "cantDeptos": 23
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "Misiones",
+            "capital": "Posadas",
+            "habitantes": "1.097.829",
+            "cantDeptos": 17
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "Chaco",
+            "capital": "Resistencia",
+            "habitantes": "1.053.466",
+            "cantDeptos": 25
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "Corrientes",
+            "capital": "Corrientes",
+            "habitantes": 993.338,
+            "cantDeptos": 25
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "Santiago del Estero",
+            "capital": "Santiago del Estero",
+            "habitantes": 896.461,
+            "cantDeptos": 27
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "San Juan",
+            "capital": "San Juan",
+            "habitantes": 680.427,
+            "cantDeptos": 19
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "Jujuy",
+            "capital": "San Salvador de Jujuy",
+            "habitantes": 672.26,
+            "cantDeptos": 16
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "R\u00edo Negro",
+            "capital": "Viedma",
+            "habitantes": 633.374,
+            "cantDeptos": 13
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "Neuqu\u00e9n",
+            "capital": "Neuqu\u00e9n",
+            "habitantes": 550.344,
+            "cantDeptos": 16
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "Formosa",
+            "capital": "Formosa",
+            "habitantes": 527.895,
+            "cantDeptos": 9
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "Chubut",
+            "capital": "Rawson",
+            "habitantes": 506.668,
+            "cantDeptos": 15
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "San Luis",
+            "capital": "San Luis",
+            "habitantes": 461.588,
+            "cantDeptos": 9
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "Catamarca",
+            "capital": "San Fernando del Valle de Catamarca",
+            "habitantes": 367.82,
+            "cantDeptos": 16
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "La Rioja",
+            "capital": "La Rioja",
+            "habitantes": 331.847,
+            "cantDeptos": 18
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "La Pampa",
+            "capital": "Santa Rosa",
+            "habitantes": 316.94,
+            "cantDeptos": 22
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "Santa Cruz",
+            "capital": "R\u00edo Gallegos",
+            "habitantes": 272.524,
+            "cantDeptos": 7
+        }
+    },
+    {
+        "__class__": "Provincia",
+        "__atributos__": {
+            "nombre": "Tierra del Fuego",
+            "capital": "Ushuaia",
+            "habitantes": 126.19,
+            "cantDeptos": 4
+        }
+    }
+]
